@@ -143,3 +143,6 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 #change 2 in second branch
 #change 3 in second branch
 >>>>>>> branch2
+
+
+#another change to branch1 in different directory #1
